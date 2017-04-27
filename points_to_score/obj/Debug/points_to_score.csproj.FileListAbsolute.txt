@@ -1,0 +1,18 @@
+C:\Users\86004771\Desktop\points_to_score\points_to_score\bin\Debug\points_to_score.exe.config
+C:\Users\86004771\Desktop\points_to_score\points_to_score\bin\Debug\points_to_score.exe
+C:\Users\86004771\Desktop\points_to_score\points_to_score\bin\Debug\points_to_score.pdb
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.csprojResolveAssemblyReference.cache
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.Main.resources
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.Properties.Resources.resources
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.csproj.GenerateResource.Cache
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.exe
+C:\Users\86004771\Desktop\points_to_score\points_to_score\obj\Debug\points_to_score.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\bin\Debug\points_to_score.exe.config
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\bin\Debug\points_to_score.exe
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\bin\Debug\points_to_score.pdb
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.csprojResolveAssemblyReference.cache
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.Main.resources
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.Properties.Resources.resources
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.csproj.GenerateResource.Cache
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.exe
+C:\Users\86004771\Google ドライブ\workspace\sony\テーマ研修\points_to_score\points_to_score\obj\Debug\points_to_score.pdb
